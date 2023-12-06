@@ -10,12 +10,13 @@ Hi! My name is Praise-Him and I am a Christian :latin_cross:! I am 12 years old 
 Hobbies:
 I have a LOT of hobbies some things I enjoy are:
 
-coding (duh)
-reading
-playing the piano
-singing
-Mountain biking and hiking
-Lastly, playing soccer
+- coding (duh)
+- reading
+- playing the piano
+- singing
+- Mountain biking and hiking
+- Lastly, playing soccer
+__________
 Family:
 I have an older brother and sister, also a dog (female) named Selam.
 
